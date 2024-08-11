@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratidnya Anekar</h1>
-<h3 align="center">Data Science Enthausiast</h3>
+<h3 align="center">Welcome to my profile</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratidnya-anekar&label=Profile%20views&color=0e75b6&style=flat" alt="pratidnya-anekar" /> </p>
@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Full stack Web development**
 
-- 🌱 I’m currently learning **Javascript frameworks**
+- 👯 I’m looking to collaborate on **Web development projects and internships**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👨‍💻 All of my projects are available at [https://github.com/pratidnya-anekar]
 
-- 👨‍💻 All of my projects are available at [https://github.com/pratidnya-anekar](https://github.com/pratidnya-anekar)
-
-- 💬 Ask me about **Data Science and Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning, basic web development**
 
 - 📫 How to reach me **pratidnyaanekar@gmail.com**
 
