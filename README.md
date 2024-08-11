@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my Github!</h1>
-<h3 align="center">I'm Pratidnya Anekar, here you'll find a collection of projects and experiments that showcase my journey. Feels free to explore, collaborate and connect</h3>
+<h3 align="center">I'm Pratidnya Anekar, here you'll find a collection of projects and experiments that showcase my journey. Feels free to explore, collaborate and connect!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratidnya-anekar&label=Profile%20views&color=0e75b6&style=flat" alt="pratidnya-anekar" /> </p>
